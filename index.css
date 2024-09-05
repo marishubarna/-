@@ -505,6 +505,16 @@ color: #FFFFFF;
         height:178px;
     }
 
+    /*Section---7*/
+    .card-item{
+        list-style-type: none;
+        background-color: #9A9A9A;
+        border: 2px solid #000000;
+        border-radius: 15px;
+        text-align: center;
+        user-select: none;
+    }
+
 
     /*Section----8*/
     .background-seven-section{
