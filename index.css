@@ -244,7 +244,7 @@ right: 40px;
 
 .card-section3{
     display: flex;
-    justify-content: space-evenly;
+  justify-content: center;
 }
 
 .buy-card {
@@ -378,8 +378,6 @@ border-radius: 30px;
 
 .display-two-element-section5{
     display: flex;
-    justify-content: space-around;
- 
 }
 
 .button-on-play-shop{
@@ -401,9 +399,13 @@ font-weight: bold;
 font-family: "Montserrat", sans-serif;
 }
 
+.first-element-section5{
+    order: 1;
+}
+
 .second-element-section5{
     height: 456px;
-    
+    order: 2;
 }
 
 .logo-store {
